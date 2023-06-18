@@ -1,6 +1,0 @@
-design name, adder
-output directory, home/projects/tcl/output
-netlist directory, home/projects/tcl/net
-early lib path,~/projects/tcl/vsd/README.md
-late lib path,lib
-constraints, home/projects/tcl/cons

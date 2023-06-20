@@ -10,8 +10,7 @@ Read Constraints.csv file and convert to sdc format
 
 
 ## day 4
-synthesis with yosys
-and hierachy check
+# synthesis with yosys and hierachy check
 ![image](https://github.com/BhardwajBhat/TCL-VSD/assets/117663548/c11dd696-5355-4a1c-813f-ed65386c0d5f)
 ![image](https://github.com/BhardwajBhat/TCL-VSD/assets/117663548/ce731d5f-363b-4dbe-b15c-cd6bde2b988d)
 ![image](https://github.com/BhardwajBhat/TCL-VSD/assets/117663548/611687c7-5fca-422d-b48e-2226838729c1)

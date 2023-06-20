@@ -4,8 +4,10 @@ check working
 ## day 2
 save variables
 ## day 3 
-convert to sdc
+Read Constraints.csv file and convert to sdc format 
 ## day 4
+synthesis with yosys
+and hierachy check
 
  
 
